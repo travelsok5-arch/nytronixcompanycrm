@@ -12,11 +12,9 @@
     "cors": "^2.8.5",
     "sqlite3": "^5.1.6",
     "bcryptjs": "^2.4.3",
-    "multer": "^1.4.5",
+    "multer": "1.4.5-lts.2",
     "express-fileupload": "^1.4.0",
-    "express-session": "^1.17.3",
-    "path": "^0.12.7",
-    "fs": "0.0.1-security"
+    "express-session": "^1.17.3"
   },
   "keywords": ["crm", "cybersecurity", "management"],
   "author": "Cyber Nytronix",
